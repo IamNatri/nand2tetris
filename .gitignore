@@ -1,0 +1,9 @@
+*.tst
+*.out
+*.cmp
+*.hack
+*.zip
+
+/00
+/demo
+/main
