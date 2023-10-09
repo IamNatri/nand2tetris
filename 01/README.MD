@@ -1,4 +1,4 @@
-# Primeiro 1: Boolean function and gate logic
+# Capítulo 1: Boolean function and gate logic
 
 Neste primeiro projeto tive como objetivo codificar "todas" as portas lógicas basicas de um computador a partir da porta logica Nand.
 
